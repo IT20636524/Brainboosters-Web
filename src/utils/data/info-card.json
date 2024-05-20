@@ -1,0 +1,24 @@
+[
+  {
+    "uid": "1",
+    "firstName": "Stephen",
+    "lastName": "Hawking",
+    "profileImage": "https://fastly.picsum.photos/id/27/3264/1836.jpg?hmac=p3BVIgKKQpHhfGRRCbsi2MCAzw8mWBCayBsKxxtWO8g",
+    "currentLevel": 1,
+    "previousWeekAveragePlaytime": 50,
+    "status": "online",
+    "progressInCurrentLevel": 50,
+    "email": "it20610302@my.sliit.lk"
+  },
+  {
+    "uid": "2",
+    "firstName": "Mark",
+    "lastName": "Zuckerberg",
+    "profileImage": "https://fastly.picsum.photos/id/27/3264/1836.jpg?hmac=p3BVIgKKQpHhfGRRCbsi2MCAzw8mWBCayBsKxxtWO8g",
+    "currentLevel": 10,
+    "previousWeekAveragePlaytime": 90,
+    "status": "busy",
+    "progressInCurrentLevel": 90,
+    "email": "christancf.dev@gmail.com"
+  }
+]
